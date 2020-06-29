@@ -1,4 +1,4 @@
-# front-littlebills
+# Little Bills Frontend
 
 ## Project setup
 ```
